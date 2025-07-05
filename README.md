@@ -49,7 +49,7 @@ Se trata de un sistema completo que permite gestionar una biblioteca desde la co
 - Aplicar métodos avanzados como `.map()`, `.filter()`, `.reduce()` y `.forEach()`  
 - Usar lógica condicional y bucles para crear menús dinámicos  
 - Validar entradas y manejar errores de forma clara  
-- Documentar el código para que sea fácil de entender (¡y con estilo propio 😎!)
+- Documentar el código para que sea fácil de entender 
 
 ---
 
@@ -62,7 +62,7 @@ Se trata de un sistema completo que permite gestionar una biblioteca desde la co
    ```bash
    node app.js
    
-¡Disfruta navegando por el sistema desde la consola! 📋✨
+5. ¡Disfruta navegando por el sistema desde la consola! 📋✨
 
 🛠 Herramientas usadas
 JavaScript (vanilla)
@@ -71,7 +71,7 @@ Terminal / consola
 
 prompt-sync para entrada de datos
 
-✨ Autor
+✨ Autora
 Carolina Asturias Bonilla
 Diseñadora gráfica, creativa de corazón y ahora también desarrolladora en formación 💻💡
 📍 Guatemala
